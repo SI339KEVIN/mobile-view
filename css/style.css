@@ -7,6 +7,10 @@ body {
   padding-top: 30px;
 }
 
+.full-width {
+  width: 100%;
+}
+
 h1 {
   margin-left: 10px;
   font-size: 40px;
